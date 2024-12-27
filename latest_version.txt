@@ -1,2 +1,2 @@
 2.0
-**** Welcome to the new V2 aio tool ****  Supported DEVKIT, offline flashing and log added!!! \n
+**** Welcome to the new V2 aio tool ****                             Now Supported DEVKIT flashing using com port,              offline flashing and log added!!!
