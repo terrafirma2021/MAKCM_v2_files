@@ -1,5 +1,5 @@
 {
-  "version": "2.1",
+  "version": "2.2",
   "message": "**** AIO 2.2             Logging fixed****",
   "features": [
     "Now Supported DEVKIT flashing using com port",
