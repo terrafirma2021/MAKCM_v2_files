@@ -1,6 +1,6 @@
 {
   "version": "2.1",
-  "message": "**** Welcome to the new V2 aio tool ****",
+  "message": "**** AIO 2.2             Logging fixed****",
   "features": [
     "Now Supported DEVKIT flashing using com port",
     "Offline flashing",
