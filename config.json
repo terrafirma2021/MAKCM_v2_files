@@ -1,29 +1,27 @@
 {
-  "version": "1.1",
-  "message": "IHACK represents          MAKCU 2025          kmbox slayer  ",
-  "main_aio_changelog": [
-    {
-      "changes": [
-        "Now Supports offline flashing",
-        "Updated log for both Mouse and Main pc",
-        "Devkit flash better naming",
-        "Log added for right mcu"
-      ]
-    }
-  ],
-  "firmware_version": {
-    "left": {
-      "version": "1.0",
-      "changelog": [
-      ]
+    "version": "1.1",
+    "message": "IHACK represents          MAKCU 2025          kmbox slayer  ",
+    "main_aio_changelog": [
+        {
+            "changes": [
+                "Now Supports offline flashing",
+                "Updated log for both Mouse and Main pc",
+                "Devkit flash better naming",
+                "Log added for right mcu"
+            ]
+        }
+    ],
+    "firmware_version": {
+        "left": {
+            "version": "1.0",
+            "changelog": []
+        },
+        "right": {
+            "version": "1.0",
+            "changelog": []
+        }
     },
-    "right": {
-      "version": "1.0",
-      "changelog": [
-      ]
+    "config": {
+        "init_files": 1
     }
-  },
-  "config": {
-    "init_files": 1
-  }
 }
