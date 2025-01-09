@@ -22,6 +22,6 @@
         }
     },
     "config": {
-        "init_files": 1
+        "init_files": 0
     }
 }
