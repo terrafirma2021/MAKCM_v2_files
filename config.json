@@ -26,5 +26,8 @@
         "Optimized battery usage"
       ]
     }
+  },
+  "config": {
+    "init_files": 1
   }
 }
