@@ -1,13 +1,31 @@
 {
   "version": "2.4",
   "message": "**** AIO 2.4             Logging fixed****     Flash new LEFT fw to use!!! Happy new year to all users <3",
-  "features": [
-    "Now Supported DEVKIT flashing using com port",
-    "Offline flashing",
-    "Log added"
+  "main_aio_changelog": [
+    {
+      "version": "2.4",
+      "changes": [
+        "Now Supported DEVKIT flashing using com port",
+        "Offline flashing",
+        "Log added"
+      ]
+    }
   ],
   "firmware_version": {
-    "left": 2.6,
-    "right": 1.2
+    "left": {
+      "version": 2.6,
+      "changelog": [
+        "Enhanced logging for error states",
+        "Reduced latency in communication",
+        "Fixed USB reconnection issue"
+      ]
+    },
+    "right": {
+      "version": 1.2,
+      "changelog": [
+        "Improved button press accuracy",
+        "Optimized battery usage"
+      ]
+    }
   }
 }
