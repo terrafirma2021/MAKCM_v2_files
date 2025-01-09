@@ -1,31 +1,25 @@
 {
   "version": "1.0",
-  "message": "**** AIO 2.4             Logging fixed****     Flash new LEFT fw to use!!! Happy new year to all users <3",
+  "message": "IHACK represents...MAKCU 2025..... kmbox slayer..... ",
   "main_aio_changelog": [
     {
       "changes": [
         "Now Supports offline flashing",
         "Updated log for both Mouse and Main pc",
         "Devkit flash better naming",
-        "Offline flashing",
         "Log added"
       ]
     }
   ],
   "firmware_version": {
     "left": {
-      "version": "1.1",
+      "version": "1.0",
       "changelog": [
-        "Enhanced logging for error states",
-        "Reduced latency in communication",
-        "Fixed USB reconnection issue"
       ]
     },
     "right": {
-      "version": "1.1",
+      "version": "1.0",
       "changelog": [
-        "Improved button press accuracy",
-        "Optimized battery usage"
       ]
     }
   },
