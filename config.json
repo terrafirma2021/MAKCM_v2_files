@@ -3,7 +3,6 @@
   "message": "**** AIO 2.4             Logging fixed****     Flash new LEFT fw to use!!! Happy new year to all users <3",
   "main_aio_changelog": [
     {
-      "version": "2.4",
       "changes": [
         "Now Supported DEVKIT flashing using com port",
         "Offline flashing",
@@ -13,7 +12,7 @@
   ],
   "firmware_version": {
     "left": {
-      "version": 2.7,
+      "version": "2.7",
       "changelog": [
         "Enhanced logging for error states",
         "Reduced latency in communication",
@@ -21,7 +20,7 @@
       ]
     },
     "right": {
-      "version": 1.3,
+      "version": "1.3",
       "changelog": [
         "Improved button press accuracy",
         "Optimized battery usage"
