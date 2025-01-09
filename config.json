@@ -13,7 +13,7 @@
   ],
   "firmware_version": {
     "left": {
-      "version": 2.6,
+      "version": 2.7,
       "changelog": [
         "Enhanced logging for error states",
         "Reduced latency in communication",
@@ -21,7 +21,7 @@
       ]
     },
     "right": {
-      "version": 1.2,
+      "version": 1.3,
       "changelog": [
         "Improved button press accuracy",
         "Optimized battery usage"
