@@ -5,5 +5,9 @@
     "Now Supported DEVKIT flashing using com port",
     "Offline flashing",
     "Log added"
-  ]
+  ],
+  "firmware_version": {
+    "left": 1,
+    "right": 1
+  }
 }
