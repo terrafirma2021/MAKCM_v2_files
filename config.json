@@ -1,12 +1,12 @@
 {
-  "version": "1.1",
+  "version": "2.4",
   "message": "**** AIO 2.4             Logging fixed****     Flash new LEFT fw to use!!! Happy new year to all users <3",
   "main_aio_changelog": [
     {
       "changes": [
-        "Now Supported DEVKIT flashing using com port",
-        "Now Supported DEVKIT flashing using com port2",
-        "Now Supported DEVKIT flashing using com port3",
+        "Now Supports offline flashing",
+        "Updated log for both Mouse and Main pc",
+        "Devkit flash better naming",
         "Offline flashing",
         "Log added"
       ]
