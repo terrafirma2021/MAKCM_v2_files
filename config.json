@@ -1,13 +1,15 @@
 {
-    "version": "1.1",
+    "version": "1.2",
     "message": "IHACK represents          MAKCU 2025          kmbox slayer  ",
     "main_aio_changelog": [
         {
             "changes": [
-                "Now Supports offline flashing",
+                "Updated km command logic, should resolve chair issues"
+                "Now Supports offline flashing via new button",
                 "Updated log for both Mouse and Main pc",
                 "Devkit flash better naming",
                 "Log added for right mcu"
+                
             ]
         }
     ],
