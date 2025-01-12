@@ -4,7 +4,7 @@
     "main_aio_changelog": [
         {
             "changes": [
-                "Updated km command logic, should resolve chair issues"
+                "Updated km command logic, should resolve chair issues",
                 "Now Supports offline flashing via new button",
                 "Updated log for both Mouse and Main pc",
                 "Devkit flash better naming",
