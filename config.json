@@ -1,15 +1,16 @@
 {
-    "version": "1.3",
-    "message": "IHACK represents          MAKCU 2025         kmbox slayer  ",
+    "version": "1.4",
+    "message": "welcome to MAKCU, net code update due soon ",
     "main_aio_changelog": [
         {
             "changes": [
-                "Updated km command logic, should resolve chair issues",
-                "Now Supports offline flashing via new button",
+                "V1.4",
+                "Fixed aio log issues",
+                "Baud rate no longer hangs on exit",
                 "Updated log for both Mouse and Main pc",
                 "Devkit flash better naming",
                 "Log added for right mcu",
-                "UPDATE LEFT FIRMWARE"
+                "New fw soon"
                 
             ]
         }
