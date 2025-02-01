@@ -4,13 +4,13 @@
     "main_aio_changelog": [
         {
             "changes": [
-                "V1.4",
-                "Fixed aio log issues",
-                "Baud rate no longer hangs on exit",
-                "Updated log for both Mouse and Main pc",
-                "Devkit flash better naming",
-                "Log added for right mcu",
-                "New fw soon"
+                "V1.4 Hot fix",
+                "BETA TEST",
+                "Trigger bot testers",
+                "AIO due soon",
+                "Any bugs open a ticket",
+                "Thanks",
+                "G-pro wired, slow startup!! to fix"
                 
             ]
         }
