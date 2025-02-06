@@ -1,27 +1,28 @@
 {
-    "version": "1.4",
-    "message": "welcome to MAKCU, net code update due soon ",
+    "version": "1.5",
+    "message": "MAKCU,                 The World's first and last free com injection solution               ",
     "main_aio_changelog": [
         {
             "changes": [
-                "V1.4 Hot fix",
-                "BETA TEST",
-                "Trigger bot testers",
-                "AIO due soon",
+                "V1.5 AIO Beta",
+                "Auto self testing/reporting of your mouse",
+                "Fixes:",
+                "No longer crashes",
                 "Any bugs open a ticket",
                 "Thanks",
-                "Some devices have a slow startup!! to fix"
+                "MAKCU Team 2025",
+		"FLASH LEFT + RIGHT"
                 
             ]
         }
     ],
     "firmware_version": {
         "left": {
-            "version": "1.0",
+            "version": "1.1",
             "changelog": []
         },
         "right": {
-            "version": "1.0",
+            "version": "1.1",
             "changelog": []
         }
     },
