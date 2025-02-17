@@ -1,0 +1,27 @@
+Logging to file: C:\Users\icd\Documents\GitHub\MAKCM_v2_files\log.txt
+
+*** Main Version Changelog ***
+- V1.5 AIO Beta
+- Auto self testing/reporting of your mouse
+- Fixes:
+- No longer crashes
+- Any bugs open a ticket
+- Thanks
+- MAKCU Team 2025
+- FLASH LEFT + RIGHT
+
+
+
+*** Left firmware is available ***
+Version: 1.1
+Changelog:
+
+*** Right firmware is available ***
+Version: 1.1
+Changelog:
+New version available. Downloading update...
+Failed to download update. Running offline mode.
+Offline flashing mode enabled. Please ensure the firmware is available locally.
+Started serial monitoring.
+Stopping serial monitoring...
+Serial monitoring stopped.
