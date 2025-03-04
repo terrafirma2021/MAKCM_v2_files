@@ -4,14 +4,16 @@
     "main_aio_changelog": [
         {
             "changes": [
-                "V1.6 AIO Beta",
+                "V1.6 AIO",
                 "ADDED PID:VID flash support for new batch of mcus",
-                "Fixes:",
-                "No longer crashes",
-                "Any bugs open a ticket",
-                "Thanks",
+                "Guide:",
+                "https://makcu.gitbook.io/makcu",
+                "Video:",
+                "https://www.youtube.com/watch?v=l9touh9x_FY",
                 "MAKCU Team 2025",
-                "FLASH LEFT + RIGHT"
+                "thanks:",
+                "larsonist1 : video",
+                "Joxx bankthreat : guide"
             ]
         }
     ],
