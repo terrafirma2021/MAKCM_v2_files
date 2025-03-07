@@ -2,20 +2,29 @@
     "version": "1.7",
     "message": "MAKCU,                 The World's first and last free com injection solution               ",
     "main_aio_changelog": [
-        {
-            "changes": [
-                "V1.6 AIO",
-                "ADDED PID:VID flash support for new batch of mcus",
-                "Guide:",
-                "https://makcu.gitbook.io/makcu",
-                "Video:",
-                "https://www.youtube.com/watch?v=l9touh9x_FY",
-                "MAKCU Team 2025",
-                "thanks:",
-                "larsonist1 : video",
-                "Joxx bankthreat : guide"
-            ]
-        }
+{
+    "changes": [
+        "V1.6 AIO",
+        "ADDED PID:VID flash support for new batch of MCUs",
+        "Guide:",
+        "https://makcu.gitbook.io/makcu",
+        "Video:",
+        "https://www.youtube.com/watch?v=l9touh9x_FY",
+        "MAKCU Team 2025",
+        "thanks:",
+        "larsonist1 : video",
+        "Joxx bankthreat : guide",
+        "MAKCU saves the baud rate setting.",
+        "Press the left button while MAKCU is running to change and save the baud rate.",
+        "Flash count on startup indicates baud rate:",
+        "  - 4 flashes = 4 Mbps",
+        "  - 1 flash = 115k",
+        "Press the left button to cycle baud rates.",
+        "Settings are permanently saved.",
+        "If 4 flashes appear on boot, press the left button to switch to 115k."
+    ]
+}
+
     ],
     "firmware_version": {
         "left": {
