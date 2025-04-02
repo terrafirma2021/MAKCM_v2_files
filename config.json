@@ -4,16 +4,9 @@
     "main_aio_changelog": [
 {
     "changes": [
-        "V1.6 AIO",
-        "ADDED PID:VID flash support for new batch of MCUs",
-        "Guide:",
-        "https://makcu.gitbook.io/makcu",
-        "Video:",
-        "https://www.youtube.com/watch?v=l9touh9x_FY",
-        "MAKCU Team 2025",
-        "thanks:",
-        "larsonist1 : video",
-        "Joxx bankthreat : guide",
+        "The aio is being depreciated",
+        "Please migrate to the website to flash",
+        "https://www.makcu.com/en/tool",
         "UPDATED: baud rate setting.",
         "Press the left button while MAKCU is running to change and save the baud rate.",
         "Flash count on startup indicates baud rate:",
