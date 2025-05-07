@@ -1,5 +1,5 @@
 {
-    "version": "2.0",
+    "version": "2.1",
     "message": "MAKCU,                 The World's first and last free com injection solution               ",
     "main_aio_changelog": [
 {
@@ -7,6 +7,7 @@
         "The aio is being depreciated!",
         "Please migrate to the website to flash",
         "https://www.makcu.com/en/tool",
+	" ",
         "UPDATED: V3.2.",
         "Press the left button while MAKCU is running 4 times in 2 seconds to change baud rate.",
         "Flash count on startup indicates baud rate:",
