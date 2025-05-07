@@ -1,5 +1,5 @@
 {
-    "version": "1.9",
+    "version": "2.0",
     "message": "MAKCU,                 The World's first and last free com injection solution               ",
     "main_aio_changelog": [
 {
@@ -21,11 +21,11 @@
     ],
     "firmware_version": {
         "left": {
-            "version": "1.1",
+            "version": "3.2",
             "changelog": []
         },
         "right": {
-            "version": "1.1",
+            "version": "3.2",
             "changelog": []
         }
     },
