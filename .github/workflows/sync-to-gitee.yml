@@ -19,11 +19,11 @@ jobs:
           git config --global user.name "${{ secrets.GITEE_USERNAME }}"
           git config --global user.email "you@example.com"
 
-      - name: Push to Gitee
+      - name: Push to Gitee (Forced)
         env:
           GITEE_USERNAME: ${{ secrets.GITEE_USERNAME }}
           GITEE_PAT: ${{ secrets.GITEE_PAT }}
         run: |
           git remote add gitee https://${GITEE_USERNAME}:${GITEE_PAT}@gitee.com/terrafirma/MAKCM_v2_files.git
-          git push --all gitee
-          git push --tags gitee
+          git push --force --all gitee
+          git push --force --tags gitee
