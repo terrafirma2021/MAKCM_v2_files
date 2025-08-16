@@ -7,14 +7,9 @@
         "Welcome all members!",
         "https://www.makcu.com",
 	" ",
-        "UPDATED: V3.2.",
-        "Press the left button while MAKCU is running 4 times in 2 seconds to change baud rate.",
-        "Flash count on startup indicates baud rate:",
-        "  - 4 flashes = 4 Mbps",
-        "  - 1 flash = 115k",
-        "Press the left button to cycle baud rates.",
-        "Settings are permanently saved.",
-        "If 4 flashes appear on boot, press the left button to switch to 115k."
+        "UPDATED: V3.4",
+        "Fixes: Random crash.",
+        "Random slow downs"
     ]
 }
 
@@ -25,7 +20,7 @@
             "changelog": []
         },
         "right": {
-            "version": "3.2.1",
+            "version": "3.4",
             "changelog": []
         }
     },
