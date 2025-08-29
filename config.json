@@ -7,26 +7,26 @@
                 "Welcome all members!",
                 "https://www.makcu.com",
                 " ",
-                "UPDATED: V3.4",
-                "Fixes: Random crash.",
+                "UPDATED: V3.6",
+                "Fixes: Crash.",
                 "Random slow downs"
             ]
         }
     ],
     "firmware": {
         "left": {
-            "version": "3.2",
+            "version": "3.6",
             "changelog": [],
-            "name": "V3.2_LEFT",
-            "primary_url": "https://github.com/terrafirma2021/MAKCM_v2_files/raw/main/V3.2_LEFT.bin",
-            "fallback_url": "https://gitee.com/terrafirma/MAKCM_v2_files/raw/main/V3.2_LEFT.bin"
+            "name": "V3.6_LEFT",
+            "primary_url": "https://github.com/terrafirma2021/MAKCM_v2_files/raw/main/V3.6_LEFT.bin",
+            "fallback_url": "https://gitee.com/terrafirma/MAKCM_v2_files/raw/main/V3.6_LEFT.bin"
         },
         "right": {
-            "version": "3.4",
+            "version": "3.6",
             "changelog": [],
-            "name": "V3.4_RIGHT",
-            "primary_url": "https://github.com/terrafirma2021/MAKCM_v2_files/raw/main/V3.4_RIGHT.bin",
-            "fallback_url": "https://gitee.com/terrafirma/MAKCM_v2_files/raw/main/V3.4_RIGHT.bin"
+            "name": "V3.6_RIGHT",
+            "primary_url": "https://github.com/terrafirma2021/MAKCM_v2_files/raw/main/V3.6_RIGHT.bin",
+            "fallback_url": "https://gitee.com/terrafirma/MAKCM_v2_files/raw/main/V3.6_RIGHT.bin"
         }
     },
     "config": {
