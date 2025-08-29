@@ -3,9 +3,9 @@
   "message": "MAKCU,                 The World's first and last free com injection solution               ",
   "aio": {
     "version": "2.7",
-    "name": "MAKCU_V2.7.exe",
-    "primary_url": "https://github.com/terrafirma2021/MAKCM_v2_files/raw/main/MAKCU_V2.7.exe",
-    "fallback_url": "https://gitee.com/terrafirma/MAKCM_v2_files/raw/main/MAKCU_V2.7.exe",
+    "name": "MAKCU_V2.7_1.exe",
+    "primary_url": "https://github.com/terrafirma2021/MAKCM_v2_files/raw/main/MAKCU_V2.7_1.exe",
+    "fallback_url": "https://gitee.com/terrafirma/MAKCM_v2_files/raw/main/MAKCU_V2.7_1.exe",
     "changelog": [
       "Welcome all members!",
       "https://www.makcu.com",
