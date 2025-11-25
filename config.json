@@ -34,9 +34,9 @@
     "right": {
       "version": "3.4",
       "changelog": [],
-      "name": "V3.4_RIGHT",
-      "primary_url": "https://github.com/terrafirma2021/MAKCM_v2_files/raw/main/V3.4_RIGHT.bin",
-      "fallback_url": "https://gitee.com/terrafirma/MAKCM_v2_files/raw/main/V3.4_RIGHT.bin"
+      "name": "V3.7_RIGHT",
+      "primary_url": "https://github.com/terrafirma2021/MAKCM_v2_files/raw/main/V3.7_RIGHT_TESTING.bin",
+      "fallback_url": "https://gitee.com/terrafirma/MAKCM_v2_files/raw/main/V3.7_RIGHT_TESTING.bin"
     }
   },
   "config": {
