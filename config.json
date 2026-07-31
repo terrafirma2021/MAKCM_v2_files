@@ -1,14 +1,16 @@
 {
-  "version": "2.7",
+  "version": "2.8",
   "message": "MAKCU,                 The World's first and last free com injection solution",
   "aio": {
-    "version": "2.7",
-    "name": "MAKCU_V2.7_1.exe",
-    "primary_url": "https://github.com/terrafirma2021/MAKCM_v2_files/raw/main/MAKCU_V2.7_1.exe",
-    "fallback_url": "https://gitee.com/terrafirma/MAKCM_v2_files/raw/main/MAKCU_V2.7_1.exe",
+    "version": "2.8",
+    "name": "MAKCU.exe",
+    "primary_url": "https://raw.githubusercontent.com/terrafirma2021/MAKCM_v2_files/main/MAKCU.exe",
+    "fallback_url": "https://gitee.com/terrafirma/MAKCM_v2_files/raw/main/MAKCU.exe",
     "changelog": [
       "Welcome all members!",
-      "https://www.makcu.com"
+      "https://www.makcu.com",
+      "Fixed AIO auto-update to use the configured published executable.",
+      "Fixed offline USB flash buttons so local .bin selection works after a failed config download."
     ]
   },
   "main_aio_changelog": [
@@ -16,6 +18,8 @@
       "changes": [
         "Welcome all members!",
         "https://www.makcu.com",
+        "Fixed AIO auto-update to use the configured published executable.",
+        "Fixed offline USB flash buttons so local .bin selection works after a failed config download.",
         " ",
         "UPDATED: roll back to v3.2 Left v3.4 Right",
         "Fixes: Crash.",
